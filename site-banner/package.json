@@ -1,0 +1,13 @@
+{
+  "name": "site-banner",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ioredis": "^5.10.1"
+  }
+}
